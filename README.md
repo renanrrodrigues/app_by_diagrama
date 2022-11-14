@@ -1,5 +1,5 @@
 ## - projeto estudo 📚    
-## - estrutura de classes usando diagrama de sequência 
+## - estrutura de classes usando diagrama de classes e diagrama de sequência
 ## - funcionalidade processo de locação de livro
 ## author ⛏  https://github.com/renanrrodrigues
 
