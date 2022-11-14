@@ -1,5 +1,5 @@
 ## - projeto estudo 📚    
-## - estrutura de classes usando diagrama de classes e diagrama de sequência
+## - aplicando diagrama de sequência usando a linguagem python
 ## - funcionalidade processo de locação de livro
 ## author ⛏  https://github.com/renanrrodrigues
 
