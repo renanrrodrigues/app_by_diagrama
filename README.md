@@ -1,6 +1,6 @@
 ## - projeto estudo 📚    
 ## - aplicando diagrama de sequência usando a linguagem python
-## - funcionalidade processo de locação de livro
+## - funcionalidade: processo de locação de livro
 ## author ⛏  https://github.com/renanrrodrigues
 
 
