@@ -27,7 +27,7 @@ banco = {
           'status': True}]}
 
 
-class Func:
+class Funcionario:
     def __init__(self, id_func):
         self.id_func = id_func
 
@@ -81,7 +81,7 @@ class TelaEmprestimo:
 
     def botao_efetuar_emprestimo(self):
         botao = ''
-        _func = Func(self.func).validar_func()
+        _func = Funcionario(self.func).validar_func()
 
         if _func[0]:  # é a mesma coisa que if _func == True
             _livro = Livro(self.livro).pesquisar_livro()
@@ -96,5 +96,6 @@ class TelaEmprestimo:
 
 
 if __name__ == '__main__':
-    retorno = TelaEmprestimo(1, 1, 2).botao_efetuar_emprestimo()
+    #  instancias do objeto TelaEmprestimo passando como argumento (cod_aluno, cod_func, cod_livro)
+    retorno = TelaEmprestimo(2, 1, 1).botao_efetuar_emprestimo()
     print(retorno)
